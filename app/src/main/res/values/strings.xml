@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipeWithSQL</string>
+    <string name="food_name">Food Name</string>
+    <string name="recipe">Recipe</string>
+    <string name="save">Save</string>
+    <string name="add_food">Add Food</string>
+</resources>
