@@ -1,6 +1,6 @@
 # UseOfSQLite
 
-### Proje Amacı 
+### Projenin Amacı 
 
   İnsanların yaptığı yemeklerin tariflerini kaydetmesini ve daha sonra istedikleri zamanlar da bu tariflere ulaşmalarını sağlamak
   
