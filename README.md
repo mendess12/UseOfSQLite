@@ -1,5 +1,10 @@
 # UseOfSQLite
 
+### Proje Amacı 
+
+  İnsanların yaptığı yemeklerin tariflerini kaydetmesini ve daha sonra istedikleri zamanlar da bu tariflere ulaşmalarını sağlamak
+  
+
 ### MainActivity class'ı içinde yapılan işlemler
 - SQL veritabanına kaydedilen verileri alma işlemleri yapıldı
 - Alınan veriler recycler viewda gerekli TextView'ler de gösterildi
